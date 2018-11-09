@@ -7,7 +7,7 @@
     <body>
         <div ng-app="myApp" ng-controller="myCtrl">
             <row color="red" margin="10" border="10,solid" > 
-			    Man
+			    Mann
 		    </row>
     </body>
 </html>
