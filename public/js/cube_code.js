@@ -22,6 +22,8 @@ myApp.controller('myCtrl', function($scope) {
 	$scope.element;
 	
 });
+
+// This Directive is For Table
 myApp.directive('tabledb',tabledb)
 tabledb.$inject=['$http'];
 function tabledb($http)
